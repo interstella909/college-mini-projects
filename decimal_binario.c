@@ -80,6 +80,5 @@ int main()
     printf("Numero decimal a convertir: ");
     scanf("%d", &num);
     convertir(s,num);
-    system("PAUSE");
     return 0;
 }
