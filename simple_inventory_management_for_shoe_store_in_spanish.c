@@ -1,3 +1,5 @@
+#This program was made by me during my third semester, but it is not a suitable program to work with
+
 #include<stdio.h>
 #include<stdlib.h>
 #include <ctype.h>
