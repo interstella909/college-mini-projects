@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include<stdlib.h> 
 #include <conio.h>
-#include <cstdlib>
+#include<stdbool.h>
 #define MAX 100
 
 typedef struct pila
